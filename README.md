@@ -1,5 +1,7 @@
 <h1>Healthcare: Develop a software that helps hospitals manage patient data, appointments, and medical records while ensuring data privacy and security</h1>
 
+RESOURCES: https://www.linkedin.com/pulse/building-python-based-system-managing-patient-records-ketan-raval-b6pyf?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy
+
 1. Project Initiation and Planning (All roles lead by Project Manager):
 
 - Define the real-world business problem that your software will solve.
