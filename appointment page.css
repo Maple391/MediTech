@@ -6,18 +6,18 @@ body {
 }
 h1 {
     margin: 10px;
-    color: #FF5003;
+    color: #fd7702;
     font-family: cursive;
 }
 
 form {
-    color: #FF5003;
+    color: #fd7702;
     
     font-family: cursive;
     width: 500px;
     height: 500px;
     background-color:#003F7D;
-    border: 2px solid #FF5003;
+    border: 2px solid #fd7702;
     padding: 10px;
     text-align: center;
     position: relative;
@@ -33,43 +33,43 @@ form {
     height: 100px;
     width: 100%;
     background-color: #003F7D;
-    border: 2px solid #FF5003;
+    border: 2px solid #fd7702;
 }
 
 p {
     font-family: cursive
 ;
-    color:#FF5003
+    color:#fd7702
 
 }
 .nameInput {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 
 }
 .dateInput {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 }
 .timeInput {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 }
 .SymptomsInput {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 }
 .submit {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 }
 button {
     border-radius: 10px; 
-    border: 1px solid #FF5003; 
+    border: 1px solid #fd7702; 
     padding: 10px;
 }
