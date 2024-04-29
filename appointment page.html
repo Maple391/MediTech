@@ -16,23 +16,27 @@
 
     </div>
     <div id="appointment div">
-        <form>
+        <form action="bookingconfirmation.php" method="post">
             <div class="name"></div>
             <label for="nameInput">Name:</label>
             <input type="text" class="nameInput" name="nameInput"><br>
 
-            <label for="dateInput">Date:</label>
+            <div class="email"></div>
+            <label for="email">Email: </label>
+            <input type="text" class="email" name="email"><br>
+            
+            <label for="dateInput">Date:</label> 
             <input type="date" class="dateInput" name="dateInput"><br>
 
             <label for="timeInput">Time:</label>
             <input type="time" class="timeInput" name="timeInput"><br>
 
             <label for="SymptomsInput">Symptoms:</label>
-            <input type="text" class="SymptomsInput" name="SymptomsInput"><br>
+            <input type="text" class="SymptomsInput" name="SymptomsInput"><br> 
 
-            <input type="submit" class="submit" value="Submit">
+            <input type="submit" class="submit" value="Submit">  
             
-            <button>click here to book your appointment</button>
+            
         </form>
     </div>
     <script>
